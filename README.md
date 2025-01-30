@@ -11,3 +11,6 @@ And done the Model Evaluation and Confusion Matrix.
 There are some Zip files that i have converted into, that are dataset that are converted from the program. 
 
 Here the programs are done in Jupyter Notebook.
+
+
+I have tried Transfer Learning, but it takes lot of time to run.
